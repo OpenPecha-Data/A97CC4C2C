@@ -1,0 +1,33 @@
+segment_sources:
+  P59CC15AD:
+    type: origin_type
+    relation: translation
+    language: sa
+  PCB01CC69:
+    type: origin_type
+    relation: translation
+    language: zh
+  PDC6C6C92:
+    type: origin_type
+    relation: translation
+    language: zh
+  PDD3DDF3C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  90c607f087a3460e852a194396cb8126:
+    P59CC15AD: 88d88a39c2ec46e1badf7495c83302b0
+    PCB01CC69: 77bce132c3314fbeb08ecdebcddde358
+    PDC6C6C92: 4066cc36bf3b49ca836a59a7f3a49774
+    PDD3DDF3C: 4f34ba754c544e8e89e54a2cf13552c8
+  d6d49b999cd9487eba6b9012223feaf1:
+    P59CC15AD: 7cf7ac4253204204b5b6b15f26621376
+    PCB01CC69: 06be5fc5dab44cd1b5f5003a6052d26c
+    PDC6C6C92: 16d8793dbb30461cb00411436f45bd38
+    PDD3DDF3C: aa5ad3ec95c54bfd99a9eb3889d9c9c4
+  38007879d2e84513bebe2c9b13842823:
+    P59CC15AD: 7eca5c7e5c714923b213f4bac99a1d65
+    PCB01CC69: e96e2d5c852d484f9cea3dec1713a94a
+    PDC6C6C92: e801f86a1e3b4173b677a55c6c3ee251
+    PDD3DDF3C: 707603e9558a4b44ac2e18f1838d5781

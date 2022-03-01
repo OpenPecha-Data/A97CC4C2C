@@ -1,0 +1,23 @@
+segment_sources:
+  P59CC15AD:
+    type: origin_type
+    relation: translation
+    language: sa
+  PCB01CC69:
+    type: origin_type
+    relation: translation
+    language: zh
+  PDC6C6C92:
+    type: origin_type
+    relation: translation
+    language: zh
+  PDD3DDF3C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d583e52bd7774102bc4a59153d48e570:
+    P59CC15AD: ee5b16b05e84425da74287674bd552e8
+    PCB01CC69: 3565311b75ba413bba1a153d12b863ba
+    PDC6C6C92: f9d1ba45daed4eee8c71afb3933aa5aa
+    PDD3DDF3C: 64df756a3d4a4cb7beb64c31c427ea36

@@ -1,0 +1,48 @@
+segment_sources:
+  P59CC15AD:
+    type: origin_type
+    relation: translation
+    language: sa
+  PCB01CC69:
+    type: origin_type
+    relation: translation
+    language: zh
+  PDC6C6C92:
+    type: origin_type
+    relation: translation
+    language: zh
+  PDD3DDF3C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3935a38d3eee4e71afeb67f875cbe81a:
+    P59CC15AD: 0a2eab338e9e4c13a0e1e13b7d6ca35d
+    PCB01CC69: da3e660f4d994efbb285d5a77f8ab6fd
+    PDC6C6C92: 2805331cfa2c4241843dd322afd79e3c
+    PDD3DDF3C: 53d4ffc4ba0942c996f5cdaf00522f12
+  343b44705d744279b1d384df6ebfd3f6:
+    P59CC15AD: 8d02fbda966b42588e253674fc051b42
+    PCB01CC69: aa81a782e8c24c20af26d41d0ed39391
+    PDC6C6C92: 3270578ba1dd435db9a86fd6f33fb338
+    PDD3DDF3C: d543bea8b6d148828ff55fe5994a88da
+  81f50ee9f4d643689596e15202ac5737:
+    P59CC15AD: 31d3441292f0463ebecbf5c9b56c58c1
+    PCB01CC69: 4e121efbd2ba4d70b275610c92b40d5d
+    PDC6C6C92: 19a2867caf46439294f6565744321b65
+    PDD3DDF3C: c9c68ed3f7434e9f91b4e2b18820edb0
+  dbad155a2b8e4aefb68eaf54967abcb1:
+    P59CC15AD: 02657b4e6f624de19ebb937ef3e121b1
+    PCB01CC69: f97f2fc4e5444cae9056dd7f3f0fbe94
+    PDC6C6C92: a8a73fc2d312492a848ddc644e777e1a
+    PDD3DDF3C: f9c54400df78429db8a63ba43e0841ea
+  3b23fc56f8d546988a2d655eebc8bcd5:
+    P59CC15AD: 3cfe229cf4b2459abca8afab61c28879
+    PCB01CC69: 984af62e9559434baa009982e13fe773
+    PDC6C6C92: ee75882e15744c279ff8e13bd30e79d9
+    PDD3DDF3C: b1a3dcdfac4f4d2f9ecc8a0bc2b99f4d
+  26d5f04ef93a4c4aa7b74e851c0a8292:
+    P59CC15AD: d101dce956384339983341c216c47576
+    PCB01CC69: d4ad5269fb6448149cef2cce2ef0c531
+    PDC6C6C92: 05dbd26fbdd947eca54069dcf16da02f
+    PDD3DDF3C: 552aaaf91ea84ed1ab8332ced72054b4
